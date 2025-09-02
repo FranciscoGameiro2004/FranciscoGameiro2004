@@ -6,7 +6,7 @@ const introduction: AspiringFrontEndDeveloper = {
   nationality: 'pt', //  🇵🇹🇪🇺 Portuguese,
   education: [
     {
-      degree: 'Undergraduate Degree in Web Information Systems and Technologies'
+      degree: 'Undergraduate Degree in Web Information Systems and Technologies',
       timeInterval: {
         started: new Date("2022-10"),
         concluded: new Date("2025-07")
@@ -19,7 +19,7 @@ const introduction: AspiringFrontEndDeveloper = {
   contacts: {
     linkedin: 'https://www.linkedin.com/in/francisco-gameiro-588139242/'
   }
-}
+};
 ```
 
 ## Some Technologies I've used
